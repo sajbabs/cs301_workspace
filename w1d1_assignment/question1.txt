@@ -1,0 +1,47 @@
+COM301
+HOMEWORK 1
+AJIBOLA SULAIMAN
+- Reading contents from referenced links. 
+• What happens when an assignment is performed without using let keyword in strict mode? 
+Answer-  an error is detected as it is not recognized as declared or initialized.
+• List 5 reserved keywords in JavaScript.
+Answer- 
+continue
+let
+export 
+break
+function
+
+• How is a computer program similar/ different then an algorithm. 
+Answer- An algorithm is just the step-by-step solution/instruction to solve a problem while a program is an algorithm written in a programming language for the computer to solve a problem or provide a service.
+
+
+
+
+
+
+• Write at least two algorithms you perform on your daily life, with at least one algorithm that can be converted to computer program.
+Answer: Brush my Teeth				 		Start Class
+                Pick my toothbrush					Turn on my computer
+	     Run the tap & rinse my brush			input my password
+	     Pick the toothpaste					Start teams app 
+	     Open the cap of the toothpaste			click on CS301 team
+	      Push some paste onto the brush			 click on join meeting
+	      Open mouth 
+	       Brush teeth in circular motion
+	       Brush Tongue thoroughly
+	      Spit out the toothpaste
+	       Rinse the toothbrush
+	        Rinse your outer lips
+	        Return toothpaste & toothbrush
+
+b) check out customer purchase:
+Print hello 
+start total at 0
+scan product and add price to total
+enter finish when cart is empty
+print total
+accept payment
+print receipt
+Print thank you
+End
