@@ -1,0 +1,17 @@
+p{
+    color: blue;
+    background-color: green;
+}
+body{
+    background-color:  rgb(65, 139, 139);
+
+    border: 3px bold white;
+}
+h1{
+    color: white;
+    background-color: antiquewhite;
+}
+
+h3{
+    color: brown;
+}

@@ -1,0 +1,13 @@
+body{
+
+    color: whitesmoke; 
+    background-color: olivedrab;
+    border: 5px solid white;
+    padding-left: 40px;
+       
+}
+#myClass{
+    text-decoration: underline solid white ;
+    
+}
+
